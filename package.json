@@ -24,7 +24,7 @@
     "loader-utils": "^1.4.0",
     "raw-loader": "^4.0.1",
     "worker-loader": "^2.0.0",
-    "pdfjs-dist": "^2.6.347",
+    "pdfjs-dist": "https://github.com/llearn/pdfjs-dist.git",
     "vue-resize-sensor": "^2.0.0"
   },
   "peerDependencies": {}
